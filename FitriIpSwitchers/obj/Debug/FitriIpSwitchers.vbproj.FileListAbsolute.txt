@@ -1,0 +1,11 @@
+C:\Users\Fitri-\AppData\Local\Temporary Projects\FitriIpSwitchers\bin\Debug\FitriIpSwitchers.exe.config
+D:\Fitri.Project\Project.VB\Fitri.IpSwitchers\FitriIpSwitchers\bin\Debug\FitriIpSwitchers.exe.config
+D:\Fitri.Project\Project.VB\Fitri.IpSwitchers\FitriIpSwitchers\bin\Debug\FitriIpSwitchers.exe
+D:\Fitri.Project\Project.VB\Fitri.IpSwitchers\FitriIpSwitchers\bin\Debug\FitriIpSwitchers.pdb
+D:\Fitri.Project\Project.VB\Fitri.IpSwitchers\FitriIpSwitchers\bin\Debug\FitriIpSwitchers.xml
+D:\Fitri.Project\Project.VB\Fitri.IpSwitchers\FitriIpSwitchers\obj\Debug\FitriIpSwitchers.Resources.resources
+D:\Fitri.Project\Project.VB\Fitri.IpSwitchers\FitriIpSwitchers\obj\Debug\FitriIpSwitchers.vbproj.GenerateResource.Cache
+D:\Fitri.Project\Project.VB\Fitri.IpSwitchers\FitriIpSwitchers\obj\Debug\FitriIpSwitchers.exe
+D:\Fitri.Project\Project.VB\Fitri.IpSwitchers\FitriIpSwitchers\obj\Debug\FitriIpSwitchers.xml
+D:\Fitri.Project\Project.VB\Fitri.IpSwitchers\FitriIpSwitchers\obj\Debug\FitriIpSwitchers.pdb
+D:\Fitri.Project\Project.VB\Fitri.IpSwitchers\FitriIpSwitchers\obj\Debug\FitriIpSwitchers.FitriKHCode.IpSwicther.resources
